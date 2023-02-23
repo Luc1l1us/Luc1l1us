@@ -14,5 +14,5 @@
 ### My Stats:
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luc1l1us&show_icons=true&theme=transparent&count_private=true" />
 </a></p>
