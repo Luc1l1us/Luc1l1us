@@ -10,3 +10,7 @@
   <img src = "https://img.shields.io/badge/FaceBook-informational?logo=Facebook&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+
+### My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Luc1l1us&theme=dark)](https://git.io/streak-stats)
