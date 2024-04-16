@@ -13,18 +13,15 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook" />
-  </a>
-</p>
-
 ### My Stats:
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-</a></p>
+| | |
+|-------------|--------------|
+| <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dracula&count_private=true&hide_border=true" />     | <img src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook">      |
 
-### Skills
+
+
+
+### Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,arduino,bash,blender,cs,cpp,css,cypress,discordjs,express,figma,flutter,git,github,html,java,js,kotlin,linux,md,mongodb,mysql,neovim,nextjs,nix,nodejs,notion,npm,ps,php,powershell,pr,py,react,replit,tailwind,threejs,ts,ubuntu,unity,v,vercel,vim,visualstudio,vscode,&theme=dark)](https://skillicons.dev)
