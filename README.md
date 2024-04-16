@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter notebook"/>
+    <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook" />
   </a>
 </p>
 
