@@ -12,7 +12,11 @@
   <img src = "https://img.shields.io/badge/FaceBook-informational?logo=Facebook&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
-
+<div align="center">
+<a href = "https://wakatime.com/@018ee7ad-c8ca-4f7c-b9ef-2672d8f26849">
+  <img src="https://wakatime.com/badge/user/018ee7ad-c8ca-4f7c-b9ef-2672d8f26849.svg"/>
+  </a>
+</div>
 ### My Stats:
 
 | | |
