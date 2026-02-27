@@ -17,7 +17,8 @@
   <img src="https://wakatime.com/badge/user/018ee7ad-c8ca-4f7c-b9ef-2672d8f26849.svg"/>
   </a>
 </div>
-### My Stats:
+
+### My stats:
 
 | | |
 |-------------|--------------|
