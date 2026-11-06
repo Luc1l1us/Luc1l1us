@@ -22,7 +22,7 @@
 
 | | |
 |-------------|--------------|
-| <img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dracula&count_private=true&hide_border=true" />     | <img src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook">      |
+| [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dracula&count_private=true&hide_border=true)](https://github.com/stats-organization/github-stats-extended) <!--<img align="center" src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api?username=Luc1l1us&show_icons=true&theme=dracula&count_private=true&hide_border=true" />-->     | [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=Luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook)](https://github.com/stats-organization/github-stats-extended)  <!-- <img src="https://github-readme-stats-git-master-luc1l1us-projects.vercel.app/api/top-langs/?username=luc1l1us&layout=compact&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide=jupyter%20notebook"> -->      |
 
 
 
